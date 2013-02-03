@@ -1,0 +1,14 @@
+## Interface: 50100
+## Title: |cff1784d1ElvUI |r|cffffdc3cKF - RaidCooldown
+## Author: Arstraea
+## Version: 1.0
+## eMail: qjr2513@naver.com
+## RequiredDeps: ElvUI
+## DefaultState: Enabled
+## Notes: Raid Cooldown addon by Arstraea
+
+SpellTable.lua
+Default Value.lua
+Locale\Loader.xml
+Options.lua
+RaidCooldown.lua
